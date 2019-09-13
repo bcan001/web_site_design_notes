@@ -1,3 +1,27 @@
+- requirements documentation / project timeline (pg. 26)
+
+
+---- INFORMATION ARCHITECTURE: ----
 1. site map (pg. 33) (process flow between pages)
 2. wireframes (pg. 37) (show important elements and functionality such as dropdowns/interactions, etc.)
-3. 
+3. usability diagrams (pg. 41) (combination of site map and wireframe, illustrates the path a user may take. May even have off-site actions, such as email sendouts)
+4. prototypes (pg. 43) (working models of site features. will be 'skinned' by a designer once completed, which means adding a design on top of a working model. PROVIDE PROOF OF CONCEPT)
+
+
+
+---- SITE DESIGN: ----
+PLAN:
+5. visual concept brainstorming (pg. 45) (mood boards, style tiles(ctp), metaphors
+
+
+
+DESIGN:
+
+
+
+OPTIMIZE:
+
+
+
+
+
