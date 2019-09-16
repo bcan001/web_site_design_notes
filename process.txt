@@ -11,12 +11,22 @@
 
 ---- SITE DESIGN: ----
 PLAN (pg. 51):
-5. Usability/Navigation/
+5. Usability: can the user find what they need to, and easily?
+
+Navigation (links pages to each other, the cornerstone of web site usability): 
+ 4 states to an item in the navigation bar:
+  1. doormant/static state
+  2. active state (the current page)
+  3. rollover state (which is sometimes the same as the active state)
+  4. visited state (indicates to the user what has already been visited)
+
+Breadcrumbs: help give the user an overview of the site architecture
 
 
 
 DESIGN:
 6. 
+
 
 
 OPTIMIZE:
